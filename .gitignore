@@ -30,6 +30,9 @@
 #Un-ignore the source code
 !/pyCode/*.py
 
+#Un-ignore error logging
+!/data
+
 !/CPP
 /CPP/*
 !/CPP/MantisServer
