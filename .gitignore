@@ -12,6 +12,8 @@
 !*MAPS.mat
 !*MantisServer.opt
 
+!/data/error/test.txt
+
 # "un-ignore the Local folder =========Local========
 !/Local
 #Now ignore all the content of the folder Local
